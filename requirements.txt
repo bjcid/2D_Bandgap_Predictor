@@ -1,0 +1,14 @@
+# Versions the models were trained / pickled with (Python 3.12.10). scikit-learn and torch MUST match: preproc_*.joblib and the
+# *.pt checkpoints are version-sensitive. For a lighter CPU-only build add first:  --extra-index-url https://download.pytorch.org/whl/cpu
+streamlit==1.54.0
+torch==2.14.1
+numpy==2.4.2
+pandas==2.3.3
+scikit-learn==1.9.1
+joblib==1.6.0
+scipy==1.18.1
+ase==3.29.0
+pymatgen==2026.9.24
+py3Dmol==2.5.5
+spglib==2.7.0
+requests==2.32.5
